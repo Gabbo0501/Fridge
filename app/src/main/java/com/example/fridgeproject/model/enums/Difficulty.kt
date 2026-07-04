@@ -1,0 +1,9 @@
+package com.example.fridgeproject.model.enums
+
+enum class Difficulty(val value: Int) {
+    ONE(1),
+    TWO(2),
+    THREE(3),
+    FOUR(4),
+    FIVE(5)
+}

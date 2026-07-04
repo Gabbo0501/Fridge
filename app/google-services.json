@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "81548282119",
+    "project_id": "fridge-c1c87",
+    "storage_bucket": "fridge-c1c87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81548282119:android:d2de70341f41908343dda2",
+        "android_client_info": {
+          "package_name": "com.example.fridgelab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81548282119-4hcu8vff8jgov4i4md2jupsmn7ra9kgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgelab5",
+            "certificate_hash": "92bf022bc5dde0cd5f825a21c79ee1a5a2704a5e"
+          }
+        },
+        {
+          "client_id": "81548282119-4mjoqnh0bgonaph9pi1kpsdsp36gg1qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgelab5",
+            "certificate_hash": "9c0c25c02d8a5a6835240fa87fd83cb7ee99b222"
+          }
+        },
+        {
+          "client_id": "81548282119-r3h2ssomfsfuhfd1q6kd2b68h0e4rdi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgelab5",
+            "certificate_hash": "419632e9261f90bef8b622410b710d91388e3d19"
+          }
+        },
+        {
+          "client_id": "81548282119-sd9b8hnlneda13095re112qtbti1tubf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgelab5",
+            "certificate_hash": "d716711a2e791aa3177b50b02128b3ef92d3d9bb"
+          }
+        },
+        {
+          "client_id": "81548282119-2skd9peg2tm57t4spi8ld448tqtigdei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dAWoh4jkUsifN60nn51vm_gvIrH-IWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81548282119-2skd9peg2tm57t4spi8ld448tqtigdei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81548282119:android:ba8beae9abd1af1c43dda2",
+        "android_client_info": {
+          "package_name": "com.example.fridgeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81548282119-6imls3lo4mn6d6r9g1a5h8cbrcd27i8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgeproject",
+            "certificate_hash": "d716711a2e791aa3177b50b02128b3ef92d3d9bb"
+          }
+        },
+        {
+          "client_id": "81548282119-ivcemvujjrhisdstmkr04dqm4claliqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgeproject",
+            "certificate_hash": "92bf022bc5dde0cd5f825a21c79ee1a5a2704a5e"
+          }
+        },
+        {
+          "client_id": "81548282119-2skd9peg2tm57t4spi8ld448tqtigdei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dAWoh4jkUsifN60nn51vm_gvIrH-IWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81548282119-2skd9peg2tm57t4spi8ld448tqtigdei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
