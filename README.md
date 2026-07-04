@@ -2,6 +2,11 @@
 
 Fridge is an Android app for managing a personal fridge, discovering recipes, and sharing cooking content with other users. The app combines fridge inventory tracking, recipe search, grocery-list support, user profiles, collections, reviews, tips, and Firebase-backed notifications.
 
+## Presentation
+
+- [Demo video](./FridgePresentation.mp4)
+- [Presentation](./FridgePresentation.pdf)
+
 ## Main Features
 
 - Recipe browsing, filtering, creation, editing and remixing.
